@@ -1,5 +1,8 @@
- ## Hello there! :wave:
+ ## Hello, Am Tito! :wave:
 ### About me  :cop:
+- Creative  and Analytic Thinker
+- I love coding and learning
+- I love music and meditation
 ### Achievements :trophy:
 ![Tito's GitHub stats](https://github-readme-stats.vercel.app/api?username=titusnjuguna&show_icons=true&theme=dark)
 ### Latest Blog Post :blue_book:
