@@ -3,6 +3,11 @@
 - Creative  and Analytic Thinker
 - I love coding and learning
 - I love music and meditation
+
+###Stack
+- Python(Django,Flask and RestFul API)
+- Html 5,BootStrap and Css 3
+- MySQL and PostgreSQL
 ### Achievements :trophy:
 ![Tito's GitHub stats](https://github-readme-stats.vercel.app/api?username=titusnjuguna&show_icons=true&theme=dark)
 ### Latest Blog Post :blue_book:
