@@ -15,7 +15,7 @@
 - [Simplified O.O.P in Python](https://dev.to/titusnjuguna/simplified-object-oriented-programming-python-3l12)
 - [Understanding Functions in Python](https://dev.to/titusnjuguna/understanding-functions-in-python-40f8)
 ### Social Links :bell:
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
 
