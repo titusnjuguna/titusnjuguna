@@ -1,4 +1,6 @@
  ## Hello, Am Tito! :wave:
+ ![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
+
 ### About me  :cop:
 - Creative  and Analytic Thinker
 - I love coding and learning
