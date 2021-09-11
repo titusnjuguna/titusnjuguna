@@ -1,5 +1,5 @@
  ## Hello, Am Tito! :wave:
- ![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
+ ![](https://komarev.com/ghpvc/?username=your-github-titusnjuguna&style=plastic)
 
 ### About me  :cop:
 - Creative  and Analytic Thinker
