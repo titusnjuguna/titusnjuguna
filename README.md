@@ -5,6 +5,7 @@
 - Creative  and Analytic Thinker
 - I love coding and learning
 - I love music and meditation
+- Open to collaboration
 ### Stack 🩺
 - Python(Django,Flask and RestFul API)
 - Html 5,BootStrap and Css 3
