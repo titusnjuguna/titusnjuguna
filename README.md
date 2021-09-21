@@ -9,7 +9,7 @@
 ### Stack 🩺
 - Python(Django,Flask and RestFul API)
 - Html 5,BootStrap and Css 3
-- Learning JavaScript and MongoDB
+- Learning JavaScript(Vue Js) and MongoDB
 - MySQL and PostgreSQL
 ### Achievements :trophy:
 ![Tito's GitHub stats](https://github-readme-stats.vercel.app/api?username=titusnjuguna&show_icons=true&theme=dark)
