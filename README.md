@@ -9,7 +9,7 @@
 ### Stack 🩺
 - Python(Django,Flask and RestFul API)
 - Html 5,BootStrap and Css 3
-- Learning JavaScript(Vue Js) and MongoDB
+- Learning C#,JavaScript(ReactJs ,NextJs and MongoDB)
 - MySQL and PostgreSQL
 - Associate Cloud Engineer(GCP)
 ### Achievements :trophy:
