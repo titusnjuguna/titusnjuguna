@@ -1,10 +1,9 @@
  ## Hello, Am Tito! :wave:
  ![](https://komarev.com/ghpvc/?username=your-github-titusnjuguna&style=plastic)
-
+![](https://www.codewars.com/users/titusnjuguna/badges/small)
 ### About me  :cop:
 - Creative  and Analytic Thinker
-- I love coding and learning
-- I love music and meditation
+- I love coding , music ,meditation and learning
 - Open to collaboration
 ### Stack 🩺
 - Python(Django,Flask and RestFul API)
