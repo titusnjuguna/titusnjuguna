@@ -1,7 +1,7 @@
  ## Hello, Am Tito! :wave:
  ![](https://komarev.com/ghpvc/?username=your-github-titusnjuguna&style=plastic)
 ![](https://www.codewars.com/users/titusnjuguna/badges/small)
-### About me  :cop:(Open to collaboration)
+### About me  :cop:(Actively Looking for a Role)
 - Creative  and Analytic Thinker
 - music ,meditation and learning
 
