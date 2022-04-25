@@ -1,16 +1,15 @@
  ## Hello, Am Tito! :wave:
  ![](https://komarev.com/ghpvc/?username=your-github-titusnjuguna&style=plastic)
 ![](https://www.codewars.com/users/titusnjuguna/badges/small)
-### About me  :cop:
+### About me  :cop:(Open to collaboration)
 - Creative  and Analytic Thinker
-- I love coding , music ,meditation and learning
-- Open to collaboration
+- music ,meditation and learning
+
 ### Stack 🩺
 - Python(Django,Flask and RestFul API)
-- Html 5,BootStrap and Css 3
-- Learning C#,JavaScript(ReactJs ,Vue Js,NextJs and MongoDB)
-- MySQL and PostgreSQL
-- Associate Cloud Engineer(GCP)
+- Html 5,BootStrap JavaScript(Vue Js),MySQL and PostgreSQL
+- Docker and GitHub Actions
+
 ### Achievements :trophy:
 ![Tito's GitHub stats](https://github-readme-stats.vercel.app/api?username=titusnjuguna&show_icons=true&theme=dark)
 ### Latest Blog Post :blue_book:
