@@ -3,10 +3,10 @@
 ![](https://www.codewars.com/users/titusnjuguna/badges/small)
 ### About me  :cop:(Actively Looking for a Role)
 - Creative  and Analytic Thinker
-- music ,meditation and learning
+- Music ,Meditation and Learning
 
 ### Stack 🩺
-- Python(Django,Flask and RestFul API)
+- Python(Django,Flask and Django-RestFul)
 - Html 5,BootStrap JavaScript(Vue Js),MySQL and PostgreSQL
 - Docker and GitHub Actions
 
