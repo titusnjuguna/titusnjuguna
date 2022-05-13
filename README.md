@@ -1,11 +1,13 @@
  ## Hello, Am Tito! :wave:
  ![](https://komarev.com/ghpvc/?username=your-github-titusnjuguna&style=plastic)
 ![](https://www.codewars.com/users/titusnjuguna/badges/small)
-### About me  :cop:(Actively Looking for a Role)
+## PLEASE HIRE ME 
+### About me  :cop:
+- Actively Looking for a Role
 - Creative  and Analytic Thinker
 - Music ,Meditation and Learning
 
-### Stack 🩺
+### Technology Stack 🩺
 - Python(Django,Flask and Django-RestFul)
 - Html 5,BootStrap JavaScript(Vue Js),MySQL and PostgreSQL
 - Docker and GitHub Actions
