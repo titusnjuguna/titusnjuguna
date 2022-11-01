@@ -3,14 +3,13 @@
 ![](https://www.codewars.com/users/titusnjuguna/badges/small)
  
 ### About me  :cop:
-- Actively Looking for a Role
 - Creative  and Analytic Thinker
 - Music ,Meditation and Learning
 
 ### Technology Stack 🩺
 - Python(Django,Flask and Django-RestFul)
-- Html 5,BootStrap JavaScript(Vue Js),MySQL and PostgreSQL
-- Docker and GitHub Actions
+- MySQL and PostgreSQL
+- Docker ,Jenkins,Maven ,GCP , linux, ansible and GitHub Actions
 
 ### Achievements :trophy:
 ![Tito's GitHub stats](https://github-readme-stats.vercel.app/api?username=titusnjuguna&show_icons=true&theme=dark)
