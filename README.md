@@ -7,7 +7,7 @@
 - Music ,Meditation and Learning
 
 ### Technology Stack 🩺
-- Python(Django,Flask and Django-RestFul)
+- Python(Django,Flask and Django-RestFul),Angular
 - MySQL and PostgreSQL
 - Docker ,Jenkins,Maven ,GCP , linux, ansible and GitHub Actions
 
